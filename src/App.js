@@ -14,7 +14,7 @@ function App() {
   // traffic is complicated. It should be an array of strings that starts out as ['car', 'truck']
   const [trafficArr, setTrafficArr] = useState(['car', 'truck']);
 
-  console.log(lightColor, lizardSize, alienSize, trafficArr);
+  // console.log(lightColor, lizardSize, alienSize, trafficArr);
   
 
   return (
